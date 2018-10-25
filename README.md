@@ -2,7 +2,7 @@
 
 ### A simple custom pie chart/circular progress.
 
-![Screenshot 1](https://github.com/MacKaSL/MKPieProgressView/blob/master/MKPieProgressView%201.png =250x)
+![Screenshot 1](https://github.com/MacKaSL/MKPieProgressView/blob/master/MKPieProgressView%201.png | width=250)
 
 ## Installing
 
