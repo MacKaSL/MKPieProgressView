@@ -2,11 +2,11 @@
 
 ### A simple custom pie chart/circular progress.
 
+## Installing
+
 
 ## Usage
 
-
-## Configuring View
 Create an `@IBOutlet weak var mkView: MKPieProgressView!` and hook it up with the view you have created in the storyboard.
 
 
