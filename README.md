@@ -7,7 +7,10 @@
 
 
 ## Configuring View
-### Below are directly configurable from your storyboard.
+Create an `@IBOutlet weak var mkView: MKPieProgressView!` and hook it up with the view you have created in the storyboard.
+
+
+### Below are directly configurable from the storyboard.
 
 `@IBInspectable var lineWidth: CGFloat` 
 Controlls the line width. Default value is set to 15.
@@ -29,3 +32,12 @@ Sets the line cap. Default is set to `round`
 
 `var animationDuration: Double`
 Sets progress path animation duration. Default is set to 1
+
+
+### Sample code
+
+`override func viewDidLoad() {
+    super.viewDidLoad()
+    mkView.lineCap = .square
+    mkView.animationDuration = 0.8
+}`
