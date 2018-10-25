@@ -2,6 +2,8 @@
 
 ### A simple custom pie chart/circular progress.
 
+![Screenshot 1](/blob/master/MKPieProgressView%201.png)
+
 ## Installing
 
 
