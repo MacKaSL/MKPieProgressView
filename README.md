@@ -5,7 +5,7 @@
 <img src="https://github.com/MacKaSL/MKPieProgressView/blob/master/MKPieProgressView%201.png" height="600"><img src="https://github.com/MacKaSL/MKPieProgressView/blob/master/MKPieProgressView%202.png" height="600"><img src="https://github.com/MacKaSL/MKPieProgressView/blob/master/MKPieProgressView%203.png" height="600">
 
 ## Installing
-
+(pods coming soon)
 
 ## Usage
 
