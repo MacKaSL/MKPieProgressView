@@ -37,7 +37,7 @@ Sets progress path animation duration. Default is set to 1
 ### Sample code
 
 `override func viewDidLoad() {
-    super.viewDidLoad()
-    mkView.lineCap = .square
-    mkView.animationDuration = 0.8
+        super.viewDidLoad()
+        mkView.lineCap = .square
+        mkView.animationDuration = 0.8
 }`
